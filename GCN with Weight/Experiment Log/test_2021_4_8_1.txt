@@ -1,0 +1,91 @@
+实验一：数据来自：three_methods_2020_12_01 连边数量：241832 节点特征：4  边特征：1   比例：6：2：2  6层ResGCNBlock + 1层GCNConv
+Epoch: 0001 loss_train: 1.9111 acc_train: 0.4270 loss_val: 1.9190 acc_val: 0.4212 time: 116.0909s
+Test set results:loss= 0.8010 accuracy= 0.2047
+Epoch: 0002 loss_train: 0.7469 acc_train: 0.2184 loss_val: 0.7476 acc_val: 0.2161 time: 124.0167s
+Epoch: 0003 loss_train: 0.6218 acc_train: 0.2325 loss_val: 0.6195 acc_val: 0.2369 time: 127.1196s
+Epoch: 0004 loss_train: 0.7036 acc_train: 0.3527 loss_val: 0.6973 acc_val: 0.3611 time: 132.5068s
+Epoch: 0005 loss_train: 0.7343 acc_train: 0.5595 loss_val: 0.7287 acc_val: 0.5653 time: 102.3175s
+Epoch: 0006 loss_train: 0.7238 acc_train: 0.5588 loss_val: 0.7149 acc_val: 0.5651 time: 69.5449s
+Test set results:loss= 0.6748 accuracy= 0.5425
+Epoch: 0007 loss_train: 0.7243 acc_train: 0.5522 loss_val: 0.7158 acc_val: 0.5587 time: 60.6034s
+Epoch: 0008 loss_train: 0.6727 acc_train: 0.5309 loss_val: 0.6669 acc_val: 0.5368 time: 65.8516s
+Epoch: 0009 loss_train: 0.6701 acc_train: 0.3779 loss_val: 0.6655 acc_val: 0.3845 time: 73.4887s
+Epoch: 0010 loss_train: 0.6321 acc_train: 0.3571 loss_val: 0.6282 acc_val: 0.3623 time: 74.4058s
+Epoch: 0011 loss_train: 0.6244 acc_train: 0.2569 loss_val: 0.6209 acc_val: 0.2607 time: 71.1240s
+Test set results:loss= 0.6165 accuracy= 0.1166
+Epoch: 0012 loss_train: 0.5915 acc_train: 0.2329 loss_val: 0.5897 acc_val: 0.2370 time: 76.5884s
+Epoch: 0013 loss_train: 0.5821 acc_train: 0.2317 loss_val: 0.5811 acc_val: 0.2349 time: 79.0942s
+Epoch: 0014 loss_train: 0.5696 acc_train: 0.2555 loss_val: 0.5686 acc_val: 0.2572 time: 84.6490s
+Epoch: 0015 loss_train: 0.5611 acc_train: 0.2740 loss_val: 0.5598 acc_val: 0.2760 time: 78.9769s
+Epoch: 0016 loss_train: 0.5392 acc_train: 0.3781 loss_val: 0.5383 acc_val: 0.3822 time: 80.0129s
+Test set results:loss= 0.4871 accuracy= 0.6040
+Epoch: 0017 loss_train: 0.5239 acc_train: 0.5232 loss_val: 0.5227 acc_val: 0.5279 time: 84.1376s
+Epoch: 0018 loss_train: 0.5125 acc_train: 0.5885 loss_val: 0.5108 acc_val: 0.5910 time: 84.4827s
+Epoch: 0019 loss_train: 0.4999 acc_train: 0.6137 loss_val: 0.4989 acc_val: 0.6171 time: 83.7543s
+Epoch: 0020 loss_train: 0.4952 acc_train: 0.6151 loss_val: 0.4939 acc_val: 0.6184 time: 87.4942s
+Epoch: 0021 loss_train: 0.4915 acc_train: 0.6103 loss_val: 0.4901 acc_val: 0.6146 time: 88.1573s
+Test set results:loss= 0.4864 accuracy= 0.5876
+Epoch: 0022 loss_train: 0.4737 acc_train: 0.6197 loss_val: 0.4712 acc_val: 0.6242 time: 94.4427s
+Epoch: 0023 loss_train: 0.4638 acc_train: 0.6248 loss_val: 0.4614 acc_val: 0.6278 time: 93.5527s
+Epoch: 0024 loss_train: 0.4560 acc_train: 0.6288 loss_val: 0.4545 acc_val: 0.6308 time: 92.6415s
+Epoch: 0025 loss_train: 0.4353 acc_train: 0.6483 loss_val: 0.4336 acc_val: 0.6525 time: 94.4167s
+Epoch: 0026 loss_train: 0.4357 acc_train: 0.6559 loss_val: 0.4346 acc_val: 0.6585 time: 99.8028s
+Test set results:loss= 0.4413 accuracy= 0.6066
+Epoch: 0027 loss_train: 0.4159 acc_train: 0.6871 loss_val: 0.4144 acc_val: 0.6895 time: 103.3004s
+Epoch: 0028 loss_train: 0.4119 acc_train: 0.6980 loss_val: 0.4115 acc_val: 0.6975 time: 113.2032s
+Epoch: 0029 loss_train: 0.4141 acc_train: 0.7014 loss_val: 0.4140 acc_val: 0.7041 time: 116.9115s
+Epoch: 0030 loss_train: 0.3996 acc_train: 0.7115 loss_val: 0.4002 acc_val: 0.7117 time: 120.0043s
+Epoch: 0031 loss_train: 0.3935 acc_train: 0.7171 loss_val: 0.3937 acc_val: 0.7148 time: 124.3925s
+Test set results:loss= 0.4086 accuracy= 0.6028
+Epoch: 0032 loss_train: 0.3867 acc_train: 0.7261 loss_val: 0.3867 acc_val: 0.7283 time: 128.9926s
+Epoch: 0033 loss_train: 0.3944 acc_train: 0.7118 loss_val: 0.3942 acc_val: 0.7137 time: 136.9331s
+Epoch: 0034 loss_train: 0.3719 acc_train: 0.7326 loss_val: 0.3726 acc_val: 0.7317 time: 149.3497s
+Epoch: 0035 loss_train: 0.3712 acc_train: 0.7309 loss_val: 0.3703 acc_val: 0.7316 time: 142.7238s
+Epoch: 0036 loss_train: 0.3612 acc_train: 0.7427 loss_val: 0.3605 acc_val: 0.7452 time: 144.0906s
+Test set results:loss= 0.4420 accuracy= 0.6044
+Epoch: 0037 loss_train: 0.3640 acc_train: 0.7398 loss_val: 0.3635 acc_val: 0.7406 time: 155.7608s
+Epoch: 0038 loss_train: 0.3638 acc_train: 0.7339 loss_val: 0.3630 acc_val: 0.7339 time: 149.9836s
+Epoch: 0039 loss_train: 0.3457 acc_train: 0.7597 loss_val: 0.3455 acc_val: 0.7589 time: 164.2957s
+Epoch: 0040 loss_train: 0.3353 acc_train: 0.7682 loss_val: 0.3345 acc_val: 0.7718 time: 167.8867s
+Epoch: 0041 loss_train: 0.3304 acc_train: 0.7741 loss_val: 0.3312 acc_val: 0.7723 time: 179.7547s
+Test set results:loss= 0.4378 accuracy= 0.5746
+Epoch: 0042 loss_train: 0.3315 acc_train: 0.7750 loss_val: 0.3328 acc_val: 0.7719 time: 172.0805s
+Epoch: 0043 loss_train: 0.3197 acc_train: 0.7879 loss_val: 0.3190 acc_val: 0.7903 time: 182.8274s
+Epoch: 0044 loss_train: 0.3273 acc_train: 0.7823 loss_val: 0.3283 acc_val: 0.7831 time: 174.8550s
+Epoch: 0045 loss_train: 0.3355 acc_train: 0.7811 loss_val: 0.3357 acc_val: 0.7809 time: 182.3629s
+Epoch: 0046 loss_train: 0.3208 acc_train: 0.7950 loss_val: 0.3223 acc_val: 0.7902 time: 178.2586s
+Test set results:loss= 0.3906 accuracy= 0.5823
+Epoch: 0047 loss_train: 0.3110 acc_train: 0.8011 loss_val: 0.3114 acc_val: 0.8013 time: 185.3560s
+Epoch: 0048 loss_train: 0.3054 acc_train: 0.8078 loss_val: 0.3065 acc_val: 0.8069 time: 187.7612s
+Epoch: 0049 loss_train: 0.3022 acc_train: 0.8160 loss_val: 0.3034 acc_val: 0.8155 time: 206.0941s
+Epoch: 0050 loss_train: 0.2997 acc_train: 0.8142 loss_val: 0.3006 acc_val: 0.8104 time: 197.7741s
+Epoch: 0051 loss_train: 0.2816 acc_train: 0.8250 loss_val: 0.2816 acc_val: 0.8265 time: 205.1567s
+Test set results:loss= 0.4100 accuracy= 0.5784
+Epoch: 0052 loss_train: 0.2832 acc_train: 0.8234 loss_val: 0.2841 acc_val: 0.8205 time: 209.9525s
+Epoch: 0053 loss_train: 0.2878 acc_train: 0.8107 loss_val: 0.2881 acc_val: 0.8090 time: 203.8296s
+Epoch: 0054 loss_train: 0.2773 acc_train: 0.8201 loss_val: 0.2782 acc_val: 0.8187 time: 200.1611s
+Epoch: 0055 loss_train: 0.2784 acc_train: 0.8168 loss_val: 0.2793 acc_val: 0.8151 time: 206.7376s
+Epoch: 0056 loss_train: 0.2679 acc_train: 0.8265 loss_val: 0.2678 acc_val: 0.8253 time: 205.6559s
+Test set results:loss= 0.3158 accuracy= 0.6874
+Epoch: 0057 loss_train: 0.2668 acc_train: 0.8377 loss_val: 0.2677 acc_val: 0.8362 time: 213.1158s
+Epoch: 0058 loss_train: 0.2473 acc_train: 0.8485 loss_val: 0.2476 acc_val: 0.8480 time: 195.8507s
+Epoch: 0059 loss_train: 0.2692 acc_train: 0.8343 loss_val: 0.2702 acc_val: 0.8319 time: 207.7295s
+Epoch: 0060 loss_train: 0.2435 acc_train: 0.8566 loss_val: 0.2444 acc_val: 0.8554 time: 209.8773s
+Epoch: 0061 loss_train: 0.2501 acc_train: 0.8441 loss_val: 0.2499 acc_val: 0.8444 time: 230.8607s
+Test set results:loss= 0.3166 accuracy= 0.6825
+Epoch: 0062 loss_train: 0.2618 acc_train: 0.8273 loss_val: 0.2617 acc_val: 0.8279 time: 215.8962s
+Epoch: 0063 loss_train: 0.2358 acc_train: 0.8489 loss_val: 0.2365 acc_val: 0.8458 time: 221.5623s
+Epoch: 0064 loss_train: 0.2453 acc_train: 0.8452 loss_val: 0.2446 acc_val: 0.8463 time: 216.9127s
+Epoch: 0065 loss_train: 0.2283 acc_train: 0.8589 loss_val: 0.2301 acc_val: 0.8568 time: 216.3438s
+Epoch: 0066 loss_train: 0.2411 acc_train: 0.8565 loss_val: 0.2412 acc_val: 0.8552 time: 217.5758s
+Test set results:loss= 0.2926 accuracy= 0.7209
+Epoch: 0067 loss_train: 0.2303 acc_train: 0.8548 loss_val: 0.2322 acc_val: 0.8538 time: 224.4375s
+Epoch: 0068 loss_train: 0.2191 acc_train: 0.8635 loss_val: 0.2206 acc_val: 0.8621 time: 217.6993s
+Epoch: 0069 loss_train: 0.2292 acc_train: 0.8595 loss_val: 0.2309 acc_val: 0.8568 time: 220.8655s
+Epoch: 0070 loss_train: 0.2353 acc_train: 0.8479 loss_val: 0.2365 acc_val: 0.8479 time: 221.2730s
+Epoch: 0071 loss_train: 0.2212 acc_train: 0.8635 loss_val: 0.2228 acc_val: 0.8630 time: 226.6072s
+Test set results:loss= 0.2886 accuracy= 0.7242
+Epoch: 0072 loss_train: 0.2164 acc_train: 0.8634 loss_val: 0.2172 acc_val: 0.8626 time: 216.8962s
+Epoch: 0073 loss_train: 0.2312 acc_train: 0.8550 loss_val: 0.2341 acc_val: 0.8520 time: 225.6273s
+Epoch: 0074 loss_train: 0.2299 acc_train: 0.8449 loss_val: 0.2293 acc_val: 0.8445 time: 220.6060s
+Epoch: 0075 loss_train: 0.2180 acc_train: 0.8749 loss_val: 0.2210 acc_val: 0.8715 time: 228.0779s
