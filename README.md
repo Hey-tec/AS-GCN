@@ -13,7 +13,7 @@ Precisely understanding the business relationships between autonomous systems (A
 
 ## Background
 
-<img src="E:\Python Coding\AS Relationship & AS Classification\First\AS Relationship Experiment\AS-GCN\AS-GCN\Picture\image-20230728135006635.png" alt="image-20230728135006635" style="zoom: 80%;" />
+<img src="https://github.com/Hey-tec/AS-GCN/blob/master/Picture/image-20230728135006635.png" alt="image-20230728135006635" style="zoom: 80%;" />
 
 
 
