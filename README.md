@@ -13,13 +13,13 @@ Precisely understanding the business relationships between autonomous systems (A
 
 ## Background
 
-<img src="C:\Users\72436\AppData\Roaming\Typora\typora-user-images\image-20230728135006635.png" alt="image-20230728135006635" style="zoom: 80%;" />
+<img src="E:\Python Coding\AS Relationship & AS Classification\First\AS Relationship Experiment\AS-GCN\AS-GCN\Picture\image-20230728135006635.png" alt="image-20230728135006635" style="zoom: 80%;" />
 
 
 
 ## Model
 
-![image-20230728135056446](C:\Users\72436\AppData\Roaming\Typora\typora-user-images\image-20230728135056446.png)
+![image-20230728135056446](E:\Python Coding\AS Relationship & AS Classification\First\AS Relationship Experiment\AS-GCN\AS-GCN\Picture\image-20230728135056446.png)
 
 
 
