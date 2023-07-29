@@ -19,7 +19,7 @@ Precisely understanding the business relationships between autonomous systems (A
 
 ## Model
 
-<img src="https://github.com/Hey-tec/AS-GCN/blob/master/Picture/image-20230728135056446.png" alt="image-20230728135006635" style="zoom: 100%;" />
+<img src="https://github.com/Hey-tec/AS-GCN/blob/master/Picture/image-20230728135056446.png" alt="image-20230728135056446" style="zoom: 100%;" />
 
 
 
