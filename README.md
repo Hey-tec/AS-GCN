@@ -13,13 +13,13 @@ Precisely understanding the business relationships between autonomous systems (A
 
 ## Background
 
-<img src="https://github.com/Hey-tec/AS-GCN/blob/master/Picture/image-20230728135006635.png" alt="image-20230728135006635" style="zoom: 60%;" />
+<img src="https://github.com/Hey-tec/AS-GCN/blob/master/Picture/image-202307281350066.png" alt="image-202307281350066" style="zoom: 60%;" />
 
 
 
 ## Model
 
-<img src="https://github.com/Hey-tec/AS-GCN/blob/master/Picture/image-20230728135056446.png" alt="image-20230728135056446" style="zoom: 100%;" />
+<img src="https://github.com/Hey-tec/AS-GCN/blob/master/Picture/image-202307281350564.png" alt="image-202307281350564" style="zoom: 100%;" />
 
 
 
